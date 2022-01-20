@@ -112,11 +112,11 @@ main{
     flex: 2;
 }
 
-.pro{
+.pro {
     background: linear-gradient(to right top,#65dfc9, #6cdbeb);
     border-radius: 2rem;
     color: white;
-    padding: 1rem;
+    padding: 1.5rem;
     width: 300px;
     position: relative;
 }
@@ -125,13 +125,9 @@ main{
     box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.2);
 }
 
-.pro img{
-    position: absolute;
-    top: -15%;
-    right: 8%;
-}
 
 .pro h2{
+    position: relative;
     width: 40%;
     color: white;
     font-weight: 600;;
